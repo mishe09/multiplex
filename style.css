@@ -50,6 +50,7 @@ body {
   height: 3px;
   margin-bottom: 3px;
   background: black;
+  transition: all 0.2s ease;
 }
 
 .mobile_menu {
